@@ -2,6 +2,8 @@
 
 Este é um simples decodificador de textos que utiliza a cifra de César para criptografar e descriptografar mensagens. A aplicação foi desenvolvida utilizando apenas HTML, CSS e JavaScript.
 
+![image](https://github.com/JoseRVargas/projetos/assets/92692967/c78f711a-657e-4a4f-afee-71500ec8f352)
+
 ## Estrutura do Projeto
 
 O projeto é composto por três arquivos principais:
